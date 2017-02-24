@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_180d4b99c7ee1a9fede969ed01fb751e0e7519f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xufangqiang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_971e036aab990f45b2ed1cb1590d0f4e12d9644b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81ba4e4bed39386c3cbc85442b41313998fbba44">
+        <dex dex="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/pre-dexed/debug/instant-run_a105100d125f4cc52b981c9f6a7b2118a59448ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_351a0dbf3709a4bebcbeca6f2bc3fdbfcadf7483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/pre-dexed/debug/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/libs/universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.5_31ff9372ca3349c1270180495b3c3e5cf396c66e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_75c40183f1119c54c35a02849c25a95cdb56efb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_faa7e5e5a033641e7de7af2242446a38610b6aa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_88387cc3f3a10dd87d1743296ec8713471a99f36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_b0e221fed6619997afc51f2cf5874a2c0bcd0a02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_fbf96ae6655b1b4585e3d49a88e75da0403d174c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_d500ac614937f4086140f87cb6817c0b8d7eb0fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="badda8ff7064f5825d79db9a76cab06128b9fa1a">
+        <dex dex="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_9e64c6b4d8ec15b67b0341d58ca9139ed194df1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/xufangqiang/AndroidStudioProjects/HeroKuTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_57ae2835eb173f19bfcd8aadb45aa9fbd606e4a5.jar" />
+    </item>
+
+</items>
